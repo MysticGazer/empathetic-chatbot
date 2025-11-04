@@ -1,0 +1,21 @@
+# Core
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+# NLP
+nltk
+transformers
+torch
+tensorflow
+
+# App
+streamlit
+python-telegram-bot
+sqlalchemy
+
+# Utils
+tqdm
+joblib
